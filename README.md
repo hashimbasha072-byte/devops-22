@@ -1,2 +1,2 @@
 #Devops Practice
-x=10
+x=20
